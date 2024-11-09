@@ -15,13 +15,14 @@ Welcome to my GitHub! I’m passionate about **Generative AI** and **Natural Lan
 
 ### **Generative AI**
 - **Transformers** & **Attention Models**
-- **Langchain** for language model-driven apps
+- **Langchain** for building language model-driven applications
+- **Chainlit** for building conversational AI applications with ease
 
 ### **Vector Databases**
 - **Chroma**, **FAISS DB** for efficient similarity search
 
 ### **Hugging Face**
-- Fine-tuning & deploying **Hugging Face Transformers** (e.g., BERT, GPT, T5)
+- Fine-tuning & deploying **Hugging Face Transformers**
 
 ## 📈 Contributing & Collaboration
 
