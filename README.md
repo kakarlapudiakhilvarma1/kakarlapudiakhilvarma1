@@ -18,7 +18,7 @@ Welcome to my GitHub! I’m passionate about **Generative AI** and **Natural Lan
 - **Langchain** for building language model-driven applications
 - **Chainlit** for building conversational AI applications with ease
 
-### **Vector Databases**
+### **Vector Store & Databases**
 - **Chroma**, **FAISS DB** for efficient similarity search
 
 ### **Hugging Face**
