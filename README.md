@@ -19,10 +19,10 @@ Welcome to my GitHub! I’m passionate about **Generative AI** and **Natural Lan
 - **Chainlit** for building conversational AI applications with ease
 
 ### **Vector Store & Databases**
-- **Chroma**, **FAISS DB** **PINECONE** for efficient similarity search
+- **Chroma**, **FAISS DB**, **PINECONE** for efficient similarity search
 
 ### **Hugging Face**
-- Fine-tuning & deploying **Hugging Face Transformers**
+- Fine-tuning & deploying **Hugging Face Transformers**, **Hugging Face Spaces**
 
 ## 📈 Contributing & Collaboration
 
