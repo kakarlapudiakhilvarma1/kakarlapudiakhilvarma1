@@ -21,6 +21,9 @@ Welcome to my GitHub! I’m passionate about **Generative AI** and **Natural Lan
 ### **Vector Store & Databases**
 - **Chroma**, **FAISS DB**, **PINECONE** for efficient similarity search
 
+### **Google Cloud**
+- **Vertex AI**
+
 ### **Hugging Face**
 - Fine-tuning & deploying **Hugging Face Transformers**, **Hugging Face Spaces**
 
