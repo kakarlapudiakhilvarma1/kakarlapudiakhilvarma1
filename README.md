@@ -9,20 +9,39 @@ Welcome to my GitHub! I’m passionate about **Generative AI** and **Natural Lan
 - **Word2Vec** & **AvgWord2Vec**
 
 ### **Deep Learning**
-- **ANN**, **RNN**, **LSTM**, **GRU**
-- **Bidirectional LSTM**, **Encoder-Decoder** & **Attention Mechanisms**
+- **ANN Basics**, **RNN**, **LSTM**, **GRU**
+- **Encoder-Decoder** & **Attention Mechanisms** (Seq2Seq)
 - **Transformers**
 
 ### **Generative AI**
-- **Transformers** & **Attention Models**
 - **Langchain** for building language model-driven applications
 - **Langflow**  low-code AI builder for agentic and retrieval-augmented generation (RAG) apps.
+- **LangGraph** -- Loading...
+- **Retrival Augement Generation(RAG)**
+
+### **LLM Providers**
+- **Gemini**
+- **OpenAI**
+- **Groq**
+- **Mistral**
+- **Anthropic**
+
+### **Agentic AI**
+- **CrewAI**
+- **Phidata**
+- **LangGraph** -- Loading..
 
 ### **Vector Store & Databases**
-- **Chroma**, **FAISS DB**, **PINECONE** for efficient similarity search
+- **Chroma**, **FAISS DB**, **PINECONE**, **Astra DB** for efficient similarity search
 
 ### **Google Cloud**
-- **Vertex AI**: GenAI, ImageClassification
+- **Vertex AI**  Model Garden, Vertex AI Studio, Fine-tuning base models, Supervised Model training(image, tabular, text), Model deployment as endpoint, LLMOps
+- **Cloud Storage** Buckets
+- **Google AI Studio**
+
+### **Fine Tuning**
+- **Quantization** - Post Traning Quantization(PTQ) & Quantization Aware Training(QAT)
+- **Low-Order Rank Adoptation** | **Quantized LORA**
 
 ### **Hugging Face**
 - **HuggingFace Transformers**, **HuggingFace Spaces**
