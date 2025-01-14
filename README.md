@@ -20,19 +20,13 @@ Welcome to my GitHub! I’m passionate about **Generative AI** and **Natural Lan
 - **Retrival Augement Generation(RAG)**
 
 ### **LLM Providers**
-- **Gemini**
-- **OpenAI**
-- **Groq**
-- **Mistral**
-- **Anthropic**
+- **Gemini**, **OpenAI**, **Groq**, **Mistral**, **Anthropic**, etc.
 
 ### **Agentic AI**
-- **CrewAI**
-- **Phidata**
-- **LangGraph** -- Loading..
+- **CrewAI**, **Phidata**, **LangGraph**(loading..)
 
 ### **Vector Store & Databases**
-- **Chroma**, **FAISS DB**, **PINECONE**, **Astra DB** for efficient similarity search
+- **Chroma**, **FAISS DB**, **PINECONE**, **Astra DB** - for efficient similarity search
 
 ### **Google Cloud**
 - **Vertex AI**  Model Garden, Vertex AI Studio, Fine-tuning base models, Supervised Model training(image, tabular, text), Model deployment as endpoint, LLMOps
@@ -41,7 +35,7 @@ Welcome to my GitHub! I’m passionate about **Generative AI** and **Natural Lan
 
 ### **Fine Tuning**
 - **Quantization** - Post Traning Quantization(PTQ) & Quantization Aware Training(QAT)
-- **Low-Order Rank Adoptation** | **Quantized LORA**
+- **Low-Order Rank Adoptation** & **Quantized LORA**
 
 ### **Hugging Face**
 - **HuggingFace Transformers**, **HuggingFace Spaces**
