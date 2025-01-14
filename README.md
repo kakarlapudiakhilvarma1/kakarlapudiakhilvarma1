@@ -16,16 +16,16 @@ Welcome to my GitHub! I’m passionate about **Generative AI** and **Natural Lan
 ### **Generative AI**
 - **Transformers** & **Attention Models**
 - **Langchain** for building language model-driven applications
-- **Chainlit** for building conversational AI applications with ease
+- **Langflow**  low-code AI builder for agentic and retrieval-augmented generation (RAG) apps.
 
 ### **Vector Store & Databases**
 - **Chroma**, **FAISS DB**, **PINECONE** for efficient similarity search
 
 ### **Google Cloud**
-- **Vertex AI**
+- **Vertex AI**: GenAI, ImageClassification
 
 ### **Hugging Face**
-- Fine-tuning & deploying **Hugging Face Transformers**, **Hugging Face Spaces**
+- **HuggingFace Transformers**, **HuggingFace Spaces**
 
 ## 📈 Contributing & Collaboration
 
