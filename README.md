@@ -29,7 +29,7 @@ Welcome to my GitHub! I’m passionate about **Generative AI** and **Natural Lan
 - **Chroma**, **FAISS DB**, **PINECONE**, **Astra DB** - for efficient similarity search
 
 ### **Google Cloud**
-- **Vertex AI**  Model Garden, Vertex AI Studio, Fine-tuning base models, Supervised Model training(image, tabular, text), Model deployment as endpoint, LLMOps
+- **Vertex AI**  Model Garden, Vertex AI Studio, Fine-tuning base models, AutoML, Supervised Model training(image, tabular, text), Model deployment as endpoint, LLMOps, Agent Builder, RAG Engine
 - **Cloud Storage** Buckets
 - **Google AI Studio**
 
