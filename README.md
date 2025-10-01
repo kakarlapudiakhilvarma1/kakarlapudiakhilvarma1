@@ -23,7 +23,7 @@ Welcome to my GitHub! I’m passionate about **Generative AI** and **Natural Lan
 - **Gemini**, **OpenAI**, **Groq**, **Mistral**, **Anthropic**, etc.
 
 ### **Agentic AI**
-- **CrewAI**, **Phidata**, **LangGraph**(loading..)
+- **Google Agent Development Kit**, **CrewAI**, **Phidata**, **LangGraph**(loading..)
 
 ### **Vector Store & Databases**
 - **Chroma**, **FAISS DB**, **PINECONE**, **Astra DB** - for efficient similarity search
