@@ -16,7 +16,9 @@ Welcome to my GitHub! I’m passionate about **Generative AI** and **Natural Lan
 ### **Generative AI**
 - **Langchain** for building language model-driven applications
 - **Langflow**  low-code AI builder for agentic and retrieval-augmented generation (RAG) apps.
-- **LangGraph** -- Loading...
+- **LangGraph** 
+- **Microsoft Copilot Studio**
+- **n8n**
 - **Retrival Augement Generation(RAG)**
 
 ### **LLM Providers**
